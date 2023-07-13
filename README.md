@@ -53,6 +53,20 @@ example
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/03a8507b-ab8a-45af-801d-020b3d0a63fe)
 
+second part 
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/5413642a-807b-42e0-a949-ecce8f36b8f9)
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/7b151378-1423-4d54-a815-dfe27dde9373)
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/f1f587c9-921f-471f-99d1-bf6df594aee8)
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/6ad97d37-99cc-420f-bde1-f004e771e0a6)
+
+we designed a gui using Tkinter
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/3dfd2cab-9a9b-4cf3-8e14-6188d66ff746)
+
 
 
 
