@@ -29,7 +29,7 @@ media pipe track the hand like in the gif
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/e3bb233e-765b-40f3-86fe-2882f2043b22)
 
-and then collect the data to be classified 
+and then collect the data of key points to be classified 
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/165d4f97-c90b-4bd9-aba9-92257b3a59a8)
 
@@ -37,9 +37,24 @@ then the model predicts the sign
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/d4d5c4d3-322b-4692-b017-469385f6adc6)
 
-then collect the word by count because the video 30 frame by second
+then collect the word by count because the video is 30 frame by second
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/bebc3e34-e972-443c-8a96-4e96599897c9)
+
+and then convert it to voice using gtts
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/0650d8d7-94f1-4c31-b825-d6f2f3f5bb4b)
+
+using the sign of speak 
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/63a10ceb-33e2-46d9-a846-a961b618ecc4)
+
+example
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/03a8507b-ab8a-45af-801d-020b3d0a63fe)
+
+
+
 
 
 
