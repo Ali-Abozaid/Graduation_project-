@@ -13,6 +13,16 @@ and convert voice to sign
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/b30513c0-33c7-4d1a-82a2-4a49dc6a74ef)
 
+our project depengs on mediapipe
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/e70aef54-a869-4ff7-8749-18233fd8cc3e)
+
+and this is the flow chart of our project 
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/05f31db4-d861-44ce-8fff-81b714466ffc)
+
+
+
 
 
 
