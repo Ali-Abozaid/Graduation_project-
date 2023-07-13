@@ -1,5 +1,6 @@
 # Graduation_project-
 bridge the communication gap between sign language users and non-sign language users.
+
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/ecfaf430-552f-4ae5-b514-a0a12b0d54fd)
 
 what is sign language?
@@ -67,7 +68,7 @@ we designed a gui using Tkinter
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/3dfd2cab-9a9b-4cf3-8e14-6188d66ff746)
 
- and we tried the project in 12 person 
+ and we tried the project in 12 person like in demo
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/02e91716-2169-4113-ac2b-1411986365fe)
 
