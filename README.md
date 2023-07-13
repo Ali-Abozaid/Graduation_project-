@@ -3,7 +3,7 @@ bridge the communication gap between sign language users and non-sign language u
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/ecfaf430-552f-4ae5-b514-a0a12b0d54fd)
 
 what is sign language?
-is a form of manual communication and is one of the most natural ways of communication for most people in deaf community.
+is a form of manual communication and is one of the most natural ways of contact for most people in the deaf community.
 is a collection of gestures, movements, postures, and facial expressions corresponding to letters and words in natural languages
 our solution
 
@@ -28,6 +28,19 @@ The first part converts sign to voice
 media pipe track the hand like in the gif
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/e3bb233e-765b-40f3-86fe-2882f2043b22)
+
+and then collect the data to be classified 
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/165d4f97-c90b-4bd9-aba9-92257b3a59a8)
+
+then the model predicts the sign 
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/d4d5c4d3-322b-4692-b017-469385f6adc6)
+
+then collect the word by count because the video 30 frame by second
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/bebc3e34-e972-443c-8a96-4e96599897c9)
+
 
 
 
