@@ -2,7 +2,7 @@
 bridge the communication gap between sign language users and non-sign language users.
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/ecfaf430-552f-4ae5-b514-a0a12b0d54fd)
 
-what is sign language ?
+what is sign language?
 is a form of manual communication and is one of the most natural ways of communication for most people in deaf community.
 is a collection of gestures, movements, postures, and facial expressions corresponding to letters and words in natural languages
 our solution
@@ -21,11 +21,11 @@ and this is the flow chart of our project
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/05f31db4-d861-44ce-8fff-81b714466ffc)
 
-first part convert sign to voice 
+The first part convert sign to voice 
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/d62b2c18-49e1-4c49-b02c-060536513bbf)
 
-mediapipe track the hand 
+media pipe track the hand 
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/08f3b29e-7cea-4f5e-a3c5-d92e024414bd)
 
