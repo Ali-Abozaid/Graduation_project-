@@ -21,13 +21,14 @@ and this is the flow chart of our project
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/05f31db4-d861-44ce-8fff-81b714466ffc)
 
-The first part convert sign to voice 
+The first part converts sign to voice 
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/d62b2c18-49e1-4c49-b02c-060536513bbf)
 
-media pipe track the hand 
+media pipe track the hand like in the gif
 
-![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/08f3b29e-7cea-4f5e-a3c5-d92e024414bd)
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/e3bb233e-765b-40f3-86fe-2882f2043b22)
+
 
 
 
