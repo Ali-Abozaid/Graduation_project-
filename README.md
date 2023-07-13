@@ -67,6 +67,9 @@ we designed a gui using Tkinter
 
 ![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/3dfd2cab-9a9b-4cf3-8e14-6188d66ff746)
 
+ and we tried the project in 12 person 
+
+![image](https://github.com/Ali-Abozaid/Graduation_project-/assets/69512058/02e91716-2169-4113-ac2b-1411986365fe)
 
 
 
